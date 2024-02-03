@@ -1,4 +1,4 @@
-Influencer Analytics Project - Power BI Dashboards
+# Influencer Analytics Project - Power BI Dashboards
 Overview
 Welcome to the Influencer Analytics Project Power BI Dashboards repository! This project focuses on providing comprehensive insights into influencer performance, covering creator information, YouTube feed, Instagram feed, and the cost analysis for one year. The dashboards included are:
 
